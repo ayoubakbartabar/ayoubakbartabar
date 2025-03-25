@@ -5,7 +5,7 @@ If you're looking for someone who can **turn challenges into opportunities** and
 
 ---
 
-## 💻 Tech Stack:
+### 💻 Tech Stack:
 ### Frontend:
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)  
 
@@ -14,7 +14,7 @@ If you're looking for someone who can **turn challenges into opportunities** and
 
 ---
 
-## 🚀 Featured Projects:
+### 🚀 Featured Projects:
 ### [📌 Project 1 - Car-OnlinShop](https://github.com/ayoubakbartabar/car-online-shop)
 A fully responsive and dynamic e-commerce platform built with **JavaScript, React, and modern css3 frameworks**.
 
@@ -23,7 +23,7 @@ A modern and minimalistic personal portfolio showcasing my work and skills, buil
 
 ---
 
-## 📊 GitHub Stats:
+### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ayoubakbartabar&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 
 ---
