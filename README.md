@@ -15,7 +15,7 @@ If you're looking for someone who can **turn challenges into opportunities** and
 ---
 
 ## 🚀 Featured Projects:
-### [📌 Project 1 - E-Commerce Platform](https://github.com/ayoubakbartabar/ecommerce)
+### [📌 Project 1 - Car-OnlinShop](https://github.com/ayoubakbartabar/car-online-shop)
 A fully responsive and dynamic e-commerce platform built with **React, TypeScript, and modern UI frameworks**.
 
 ### [📌 Project 2 - Personal Portfolio](https://github.com/ayoubakbartabar/portfolio)
