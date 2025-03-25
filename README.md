@@ -16,7 +16,7 @@ If you're looking for someone who can **turn challenges into opportunities** and
 
 ## 🚀 Featured Projects:
 ### [📌 Project 1 - Car-OnlinShop](https://github.com/ayoubakbartabar/car-online-shop)
-A fully responsive and dynamic e-commerce platform built with **React, TypeScript, and modern UI frameworks**.
+A fully responsive and dynamic e-commerce platform built with **JavaScript, React, and modern css3 frameworks**.
 
 ### [📌 Project 2 - Personal Portfolio](https://github.com/ayoubakbartabar/portfolio)
 A modern and minimalistic personal portfolio showcasing my work and skills, built with **React and Tailwind CSS**.
