@@ -22,10 +22,10 @@ If you're looking for someone who can **turn challenges into opportunities** and
 
 ### 🚀 Featured Projects:
 ### [📌 Project 1 - Car-OnlinShop](https://github.com/ayoubakbartabar/car-online-shop)
-A fully responsive and dynamic e-commerce platform built with **JavaScript, React, and modern css3 frameworks**.
+A **responsive and dynamic online car shop** built with **React** and **Vite** for a fast and seamless shopping experience. It includes modern design principles and offers a user-friendly interface. 🚗🛒
 
 ### [📌 Project 2 - Space-spa-project](https://github.com/ayoubakbartabar/Space-spa-project.git)
-A modern and minimalistic personal portfolio showcasing my work and skills, built with **React and Tailwind CSS**.
+A **Single Page Application (SPA)** that allows users to explore **planets of the solar system**, **famous astronauts**, and **space rockets**. Built with **React** and **Vite** for a fast, interactive experience. 🚀
 
 ---
 
