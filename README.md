@@ -26,6 +26,9 @@ ___
 
 ### 🚀 Featured Projects:
 
+### [Café-Menu-project](https://github.com/ayoubakbartabar/Coffee-Shop-Menu-Project)
+It's not just a digital menu – it's a **journey through time from your café table**, a magical, responsive, and order-ready experience with just a QR scan. 📱☕🚀
+
 ### [Profile-project](https://github.com/ayoubakbartabar/profile-project)
 Welcome to **DevPortfolio**, a fully responsive and immersive showcase that reflects the identity of a modern developer.  
 It's not just a portfolio — it's a *statement*. ⚡💻✨
