@@ -25,16 +25,17 @@ If you're looking for someone who can **turn challenges into opportunities** and
 ___
 
 ### 🚀 Featured Projects:
-### [📌 Project 1 - Car-OnlinShop](https://github.com/ayoubakbartabar/car-online-shop)
-A **responsive and dynamic online car shop** built with **React** and **Vite** for a fast and seamless shopping experience. It includes modern design principles and offers a user-friendly interface. 🚗🛒
 
-### [📌 Project 2 - Space-spa-project](https://github.com/ayoubakbartabar/Space-spa-project.git)
-A **Single Page Application (SPA)** that allows users to explore **planets of the solar system**, **famous astronauts**, and **space rockets**. Built with **React** and **Vite** for a fast, interactive experience. 🚀🪐
-
-### [📌 Project 3 - Profile-project](https://github.com/ayoubakbartabar/profile-project)
-
+### [Profile-project](https://github.com/ayoubakbartabar/profile-project)
 Welcome to **DevPortfolio**, a fully responsive and immersive showcase that reflects the identity of a modern developer.  
 It's not just a portfolio — it's a *statement*. ⚡💻✨
+
+### [Space-spa-project](https://github.com/ayoubakbartabar/Space-spa-project.git)
+A **Single Page Application (SPA)** that allows users to explore **planets of the solar system**, **famous astronauts**, and **space rockets**. Built with **React** and **Vite** for a fast, interactive experience. 🚀🪐
+
+
+### [Car-OnlinShop](https://github.com/ayoubakbartabar/car-online-shop)
+A **responsive and dynamic online car shop** built with **React** and **Vite** for a fast and seamless shopping experience. It includes modern design principles and offers a user-friendly interface. 🚗🛒
 
 ___
 
