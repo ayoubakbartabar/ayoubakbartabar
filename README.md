@@ -37,10 +37,7 @@ It's not just a portfolio — it's a *statement*. ⚡💻✨
 A **Single Page Application (SPA)** that allows users to explore **planets of the solar system**, **famous astronauts**, and **space rockets**. Built with **React** and **Vite** for a fast, interactive experience. 🚀🪐
 
 
-### [Car-OnlinShop](https://github.com/ayoubakbartabar/car-online-shop)
-A **responsive and dynamic online car shop** built with **React** and **Vite** for a fast and seamless shopping experience. It includes modern design principles and offers a user-friendly interface. 🚗🛒
-
-___
+__
 
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ayoubakbartabar&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
