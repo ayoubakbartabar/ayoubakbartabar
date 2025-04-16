@@ -1,5 +1,6 @@
-## Hi there 👋
-
+<p align="center">
+  <img src="https://github.com/ayoubakbartabar/ayoubakbartabar/blob/main/assets/hello.gif?raw=true" width="500" />
+</p>
 I am **Ayoub Akbartabar**, a **Computer Engineer** and **Frontend Developer** with an unwavering passion for creating **dynamic, innovative, and user-friendly websites**. By combining **technical expertise, thoughtful design, and relentless dedication**, I have the ability to **deliver real value** in any project and under any circumstances.  
 
 If you're looking for someone who can **turn challenges into opportunities** and build a **distinctive and scalable product**, I’m here to bring your ideas to life! 🚀✨
