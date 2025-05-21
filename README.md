@@ -35,6 +35,7 @@ It's not just a digital menu – it's a **journey through time from your café t
 ### [Profile-project](https://github.com/ayoubakbartabar/profile-project)
 Welcome to **DevPortfolio**, a fully responsive and immersive showcase that reflects the identity of a modern developer.  
 It's not just a portfolio — it's a *statement*. ⚡💻✨
+
 [🔗 Live Demo ](https://developer-profile-project.netlify.app/)
 
 ---
