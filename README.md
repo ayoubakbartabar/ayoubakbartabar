@@ -22,7 +22,7 @@ ___
 
 ### 🚀 Featured Projects:
 
-### [CardCraft](https://github.com/ayoubakbartabar/cards-landing-page)  
+### [CardCraft-project](https://github.com/ayoubakbartabar/cards-landing-page)  
 Design your own **bank or credit card** with real-time customization and elegant UI.  
 This sleek React-based app features **live previews**, **regex-powered validation**, and a **minimalist, responsive interface** — transforming card creation into an interactive and enjoyable experience. 💳🎨⚡  
 
