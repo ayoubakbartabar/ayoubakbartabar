@@ -22,13 +22,17 @@ ___
 
 ### 🚀 Featured Projects:
 
+### [Bready-project](https://github.com/ayoubakbartabar/Bakery-App)  
+More than a shop — **Bready** is a digital tribute to **over a century of artisanal baking**. 🍞✨  
+Blending old-world tradition with **modern design elegance**, it offers a deliciously intuitive experience: from golden croissants to vibrant cupcakes, each item feels hand-delivered with passion.  
+Built with **React**, it’s fast, responsive, and visually rich — a true celebration of flavor in code. 🧁⚡💻
+
 ### [CardCraft-project](https://github.com/ayoubakbartabar/cards-landing-page)  
 Design your own **bank or credit card** with real-time customization and elegant UI.  
 This sleek React-based app features **live previews**, **regex-powered validation**, and a **minimalist, responsive interface** — transforming card creation into an interactive and enjoyable experience. 💳🎨⚡  
 
 ### [Café-Menu-project](https://github.com/ayoubakbartabar/Coffee-Shop-Menu-Project)
 It's not just a digital menu – it's a **journey through time from your café table**, a magical, responsive, and order-ready experience with just a QR scan. 📱☕🚀
-
 
 ### [Profile-project](https://github.com/ayoubakbartabar/profile-project)
 Welcome to **DevPortfolio**, a fully responsive and immersive showcase that reflects the identity of a modern developer.  
