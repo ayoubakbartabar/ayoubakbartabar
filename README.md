@@ -71,13 +71,6 @@ A **modern developer portfolio** reflecting personality and craft.
 
 ---
 
-## 🕓 Journey So Far
-- 🎓 BSc in Computer Engineering  
-- 💻 3+ Years of Frontend Experience  
-- 🌍 Specialized in React, Next.js, and modern web architecture  
-- 🧠 Constant learner — evolving with every pixel and line of code  
-
----
 
 ## ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
