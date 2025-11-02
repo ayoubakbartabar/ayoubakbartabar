@@ -11,15 +11,6 @@
 
 ---
 
-## 🌟 About Me 
-- 🎯 Passionate about **clean UI** and **interactive UX**  
-- 💡 Turning complex ideas into **elegant, intuitive interfaces**  
-- ⚛️ React & Next.js enthusiast — obsessed with performance and detail  
-- 🧩 Love solving **frontend architecture puzzles**  
-- 🚀 Always pushing for **pixel-perfect experiences**
-
----
-
 ## 💻 Tech Stack
 
 ### ⚡ Frontend
