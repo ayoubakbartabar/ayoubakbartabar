@@ -29,38 +29,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-### 🧁 [Bready](https://github.com/ayoubakbartabar/Bakery-App)
-A **modern bakery e-commerce** experience blending tradition with cutting-edge UI.  
-⚙️ Built with **React**, designed for speed, aesthetics, and storytelling.  
-✨ Focus: *Experience + Performance + Emotion*
-
----
-
-### 💳 [CardCraft](https://github.com/ayoubakbartabar/cards-landing-page)
-A **real-time credit card designer** with live preview and regex validation.  
-🎨 Built in **React**, fully responsive, minimalist, and interactive.  
-💡 Turning card creation into a delightful experience.
-
----
-
-### ☕ [Café Menu](https://github.com/ayoubakbartabar/Coffee-Shop-Menu-Project)
-A **digital menu journey** — bridging café nostalgia and modern UX.  
-📱 QR-ready, responsive, and crafted for effortless orders.
-
----
-
-### 💼 [DevPortfolio](https://github.com/ayoubakbartabar/profile-project)
-A **modern developer portfolio** reflecting personality and craft.  
-✨ Not just a portfolio — a statement of design and passion.
-
----
-
-## 🧭 My Philosophy
-> *"Design isn’t just how it looks — it’s how it feels when you interact with it."*
-
----
 
 
 ## ✍️ Dev Quote
