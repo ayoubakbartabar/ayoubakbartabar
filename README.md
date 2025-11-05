@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="left">Hi, I'm <span style="color:#00bfff;">Ayoub Akbartabar</span> 👋</h1>
-<h3 align="left">Frontend Developer | Computer Engineer | Creator of Digital Experiences 🚀</h3>
+<h3 align="left">Frontend Developer | Software Engineer | Creator of Digital Experiences 🚀</h3>
 
 <p align="left">
   <em>"Where creativity meets clean code."</em>
