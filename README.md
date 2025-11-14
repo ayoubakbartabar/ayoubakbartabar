@@ -47,8 +47,11 @@
 ---
 
 ### 💬 Let’s Collaborate
-I’m open to **freelance projects**, **frontend collaborations**, or **UI/UX experiments**.  
-If you’ve got an idea worth building — let’s make it real together! ✨
+
+I take on projects that need experience, clean engineering, and real impact.
+If your idea requires more than “just coding” — we can work.
+
+✨ Building something serious? Let’s talk.
 
 ---
 
