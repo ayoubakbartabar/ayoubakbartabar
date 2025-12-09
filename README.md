@@ -14,7 +14,7 @@
 ## 💻 Tech Stack
 
 ### ⚡ Frontend
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,figma,vite,sass" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,figma,vite,sass,mui" />
 
 ### 🛠️ Tools & Other Skills
 <p align="left">
