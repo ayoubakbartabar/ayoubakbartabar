@@ -51,7 +51,7 @@
 I take on projects that need experience, clean engineering, and real impact.
 If your idea requires more than “just coding” — we can work.
 
-✨ Building something serious? Let’s talk.
+✨ Building something serious? Let’s talk
 
 ---
 
